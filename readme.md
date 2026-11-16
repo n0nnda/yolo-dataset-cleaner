@@ -54,7 +54,7 @@ O script executa as seguintes etapas:
 **2. Entre no diretório onde está localizado o script:**
 
 ```bash
-cd script
+cd yolo-dataset-cleaner-1.0
 ```
 
 **3. Execute o arquivo Python:**
